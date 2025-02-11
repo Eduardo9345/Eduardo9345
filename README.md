@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Eduardo José 👋
+Meu nome é Eduardo José, sou da cidade de Sumé-PB. Atualmente, estou cursando o 5º Período em Análise e Desenvolvimento de Sistemas no IFPB - Campus Monteiro. Sou apaixonado por tecnologia, principalmente o back-end, e amo aprender coisas novas. Gosto de me desafiar a cada conhecimento novo que aprendo.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_dejc)
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-jos%C3%A9-evangelista-408a9623b/)
@@ -28,6 +29,12 @@
   
 </div><br>
 
+## Hobbies 🚵‍♀️
+Além de programador, sou técnico em instrumento musical e sou clarinetista (sabe o instrumento do Lula Molusco de Bob Esponja? É esse aí kkkkk) em uma filarmônica aqui na minha cidade. Tenho um carinho enorme por leitura, amo a saga Harry Potter e sou fã de The Walking Dead. Gosto muito de jogar Xadrez (não sei se jogo muito bem, mas eu tento ksksks). 
+
+# Pensamentos e frases 💭
+"_O que cativa o seu olhar move os seus passos!_" (Frase de um grande amigo da Comunidade Católica Shalom)
+
 <blockquote>"Mas ele foi castigado por nossos crimes, e esmagado por nossas iniquidades; <br>
 o castigo que nos salva pesou sobre ele; <br>
-fomos curados graças às suas chagas." - Isaias 53, 5</blockquote>
+fomos curados graças às suas chagas." - Isaias 53, 5.</blockquote>
