@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Eduardo José 👋
-Meu nome é Eduardo José, sou da cidade de Sumé-PB. Atualmente, estou cursando o 5º Período em Análise e Desenvolvimento de Sistemas no IFPB - Campus Monteiro. Sou apaixonado por tecnologia, principalmente o back-end, e amo aprender coisas novas. Gosto de me desafiar a cada conhecimento novo que aprendo.
+Meu nome é Eduardo José, sou da cidade de Sumé-PB. Atualmente, estou cursando o 6º Período em Análise e Desenvolvimento de Sistemas no IFPB - Campus Monteiro. Sou apaixonado por tecnologia, principalmente o back-end, e amo aprender coisas novas. Gosto de me desafiar a cada conhecimento novo que aprendo.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_dejc)
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-jos%C3%A9-evangelista-408a9623b/)
